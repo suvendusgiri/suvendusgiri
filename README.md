@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=suvendusgiri&label=Profile%20Views&color=blue&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suvendusgiri/)  
 [![Website](https://img.shields.io/badge/Website-UtkalLabs-brightgreen?style=flat-square&logo=googlechrome)](https://utkallabs.com)  
-[![Email](https://img.shields.io/badge/Email-contact@utkallabs.com-red?style=flat-square&logo=gmail)](mailto:contact@utkallabs.com)  
+[![Email](https://img.shields.io/badge/Email-suvendu@utkallabs.com-red?style=flat-square&logo=gmail)](mailto:suvendu@utkallabs.com)  
 
 ---
 
