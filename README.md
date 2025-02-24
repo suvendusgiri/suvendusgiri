@@ -11,7 +11,7 @@
 
 ## **👨‍💻 About Me**  
 
-- 💡 **Tech Leader with 13+ years of experience** in software development.  
+- 💡 **Tech Leader with 14+ years of experience** in software development.  
 - 🔥 Passionate about **building scalable, high-impact applications** across industries.  
 - ⚡ Skilled in **AI/ML, Web & Mobile Development, Cloud Solutions, Process Automation**.  
 - 🤝 Believe in **collaboration over competition** & love mentoring developers.  
@@ -46,5 +46,5 @@
 ---
 
 ## **📫 Let's Connect!**  
-📩 Reach me at **[contact@utkallabs.com](mailto:contact@utkallabs.com)**  
+📩 Reach me at **[suvendu@utkallabs.com](mailto:suvendu@utkallabs.com)**  
 🌐 Visit **[Utkal Labs](https://utkallabs.com)**  
